@@ -98,4 +98,4 @@ I'm a passionate software developer focused on building robust, scalable applica
 
 ---
 
-⭐️ From [RealMG](https://github.com/dryfish09) · Built with clean code and caffeine ☕
+⭐️ From [Dry Fish](https://github.com/dryfish09) · Built with clean code and caffeine ☕
