@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  USERNAME: "realmg51-cpu"
+  USERNAME: "dryfish09"
 
 jobs:
   update-cards:
