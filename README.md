@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **RealMG**!
+## 👋 Hi there, I'm **Dry Fish**!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=C%23+%7C+.NET+Developer;Kotlin+%7C+Android+Enthusiast;Clean+Code+Advocate;Building+%26+Breaking+Things+Daily" alt="Typing SVG" />
@@ -69,8 +69,8 @@ I'm a passionate software developer focused on building robust, scalable applica
 
 ### 🔥 Latest Projects
 
-- 🚧 *Currently preparing new open-source projects — stay tuned!*
-
+- [KotlinCookBook](https://github.com/**/KotlinCookBook)
+- [SmallRuleAI (SRA)](https://github.com/**/SmallRuleAI)
 > 💡 *I believe in shipping often, learning publicly, and collaborating openly.*
 
 ---
@@ -78,18 +78,18 @@ I'm a passionate software developer focused on building robust, scalable applica
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/realmg51-cpu?tab=followers">
-    <img src="https://img.shields.io/github/followers/realmg51-cpu?label=Follow%20me&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/dryfish09?tab=followers">
+    <img src="https://img.shields.io/github/followers/dryfish09?label=Follow%20me&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/realmg51-cpu">
-    <img src="https://img.shields.io/github/stars/realmg51-cpu?label=My%20Stars&style=social" alt="GitHub Stars"/>
+  <a href="https://github.com/dryfish09">
+    <img src="https://img.shields.io/github/stars/dryfish09?label=My%20Stars&style=social" alt="GitHub Stars"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=realmg51-cpu&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dryfish09&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
   ### ⚡ Daily Dev Quote
   
@@ -98,4 +98,4 @@ I'm a passionate software developer focused on building robust, scalable applica
 
 ---
 
-⭐️ From [RealMG](https://github.com/realmg51-cpu) · Built with clean code and caffeine ☕
+⭐️ From [RealMG](https://github.com/dryfish09) · Built with clean code and caffeine ☕
