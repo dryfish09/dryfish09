@@ -69,8 +69,7 @@ I'm a passionate software developer focused on building robust, scalable applica
 
 ### 🔥 Latest Projects
 
-- [KotlinCookBook](https://github.com/**/KotlinCookBook)
-- [SmallRuleAI (SRA)](https://github.com/**/SmallRuleAI)
+*View pinned repo*
 > 💡 *I believe in shipping often, learning publicly, and collaborating openly.*
 
 ---
