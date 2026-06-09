@@ -44,18 +44,8 @@ I'm a passionate software developer focused on building robust, scalable applica
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg">
-  <img alt="GitHub Stats" src="profile/stats-light.svg">
-</picture>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/top-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile/top-langs-light.svg">
-  <img alt="Top Languages" src="profile/top-langs-light.svg">
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dryfish09)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dryfish09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
