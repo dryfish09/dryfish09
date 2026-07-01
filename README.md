@@ -11,4 +11,7 @@ My main **Programming languages** is:
 ### My favourite thing:
 - Typo: yeah, typo is easy to write.
 - Linux: why? I like command line.
-- Drawing: With a papper, a pen, then I created a **big world** with **crazy stuff**.
+- Drawing: With a paper, a pen, then I created a **big world** with **crazy stuff**.
+### My dream:
+- My dream is become the first fish work in human environment.
+- Have own programming language: learning is hard, but create it and become an author of it is easier.
