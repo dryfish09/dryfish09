@@ -1,6 +1,6 @@
 ## :wave: Hi there! I'm Dry Fish!
 ### About me:
-I just a **dried fish** and I know to use githu; :)
+I just a **dried fish** and I know to use github  :)
 I **always** find new thing to do, and... Well, I"m lazy so many **crazy** mind will never public (that in my brain)
 ### Tech Stack (overflows)
 My main **Programming languages** is:
