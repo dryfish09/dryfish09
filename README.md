@@ -1,90 +1,14 @@
-## 👋 Hi there, I'm **Dry Fish**!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=C%23+%7C+.NET+Developer;Kotlin+%7C+Android+Enthusiast;Clean+Code+Advocate;Building+%26+Breaking+Things+Daily" alt="Typing SVG" />
-</div>
-
----
-
-### 🚀 About Me
-
-I'm a passionate software developer focused on building robust, scalable applications with clean code and modern practices.
-
-- 💻 **Specialties**: C# / .NET ecosystem & Kotlin for Android
-- 🔭 **Currently working on**: Cross-platform desktop apps and native Android projects
-- 🌱 **Always learning**: Design patterns, performance optimization, and new tech stacks
-- 📊 **GitHub activity**: Active daily — code, learn, repeat
-- ⚡ **Fun fact**: I believe great software starts with clean, readable code
-
----
-
-### 🛠️ Tech Stack
-
-**Primary Languages**
-
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Frameworks & Platforms**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Tools & IDEs**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dryfish09)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dryfish09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🎯 Current Focus
-
-- 📱 Building modern Android apps with **Kotlin** and Jetpack libraries
-- 🖥️ Developing desktop applications using **C#** and **.NET**
-- 📚 Deepening knowledge of **clean architecture**, **testing strategies**, and **CI/CD pipelines**
-
----
-
-### 🔥 Latest Projects
-
-*View pinned repo*
-> 💡 *I believe in shipping often, learning publicly, and collaborating openly.*
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/dryfish09?tab=followers">
-    <img src="https://img.shields.io/github/followers/dryfish09?label=Follow%20me&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/dryfish09">
-    <img src="https://img.shields.io/github/stars/dryfish09?label=My%20Stars&style=social" alt="GitHub Stars"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dryfish09&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-  ### ⚡ Daily Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
-
----
-
-⭐️ From [Dry Fish](https://github.com/dryfish09) · Built with clean code and caffeine ☕
+## :wave: Hi there! I'm Dry Fish!
+### About me:
+I just a **dried fish** and I know to use githu; :)
+I **always** find new thing to do, and... Well, I"m lazy so many **crazy** mind will never public (that in my brain)
+### Tech Stack (overflows)
+My main **Programming languages** is:
+- Kotlin: easy to learn, but so magic.
+- C#: a big guy that created by big guy.
+- C++: To do something need to **dangerous**
+- Assembly: well, welcome to **hardware**, but you are *not welcome*.
+### My favourite thing:
+- Typo: yeah, typo is easy to write.
+- Linux: why? I like command line.
+- Drawing: With a papper, a pen, then I created a **big world** with **crazy stuff**.
