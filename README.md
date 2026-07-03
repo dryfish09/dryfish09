@@ -7,7 +7,7 @@ I **always** find new thing to do, and... Well, I"m lazy so many **crazy** mind 
 My main **Programming languages** is:
 - Kotlin: easy to learn, but so magic 🪄
 - C#: a big guy that created by big guy.
-- C++: To do something need to **dangerous** 💀
+- C++: To do something need to be **dangerous** 💀
 - Assembly: Well, welcome to **hardware**, but you are *not welcome* ⚙️
 - CSS: Need for web front-end, but is CSS is C Sharp Sharp? (lol I know that's not) 😆
 ### My favourite thing:
