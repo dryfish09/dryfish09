@@ -20,5 +20,11 @@ My main **Programming languages** is:
 - My dream is become the first fish that work in human environment 🐟
 - Have own programming language: learning is hard, but create it and become an author of it is easier.
 - Human enviroment I want to work on is Mojang, because I am a Minecraft player (don't ask why fish can play games)
+
+### Now I working on:
+
+**Nothing**! But I have some repositories you can visit:
+- [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial docs for kotlin, not ussually update.
+- [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 ---
-*Made with sun ☀️ and cringe by DryFish 🐟*
+*Made with sun ☀️ and cringe by DryFish 🐟, thanks to spending time for visit!*
