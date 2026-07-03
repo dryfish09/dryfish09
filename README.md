@@ -21,4 +21,4 @@ My main **Programming languages** is:
 - Have own programming language: learning is hard, but create it and become an author of it is easier.
 - Human enviroment I want to work on is Mojang, because I am a Minecraft player (don't ask why fish can play games)
 ---
-*Made with sun ☀️ and cringle by DryFish 🐟*
+*Made with sun ☀️ and cringe by DryFish 🐟*
