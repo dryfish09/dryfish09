@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Dry Fish 🐟
 
 ### About me:
-I just a **dried fish** and I know how to use github 💻
+I'm just a **dried fish** and I know how to use github 💻
 
 I **always** find new thing to do, and... Well, I"m lazy so many **crazy** mind will never public (that in my brain).
 ### Tech Stack (Overflows):
@@ -29,7 +29,7 @@ My main **Programming languages** is:
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for mor information, please visit it.
 - [DryFish ILib: Random utilties](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
-## 📞 Contat me
+## 📞 Contact me
 -📧 Email: realmg51@gmail.com
 - Discord Server - DryFish Valley: https://discord.gg/wr4FSEdPb (may expires after 30 days)
 ### Support me by:
