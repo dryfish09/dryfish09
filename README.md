@@ -32,8 +32,6 @@ My main **Programming languages** is:
 ## 📞 Contact me
 -📧 Email: realmg51@gmail.com
 - Discord Server - DryFish Valley: https://discord.gg/wr4FSEdPb (may expires after 30 days)
-### Support me by:
 
-You can support me by **star ⭐** or **fork and contribute** to my **repository**, Thank you!
 ---
 *Made with sun ☀️ and cringe by DryFish 🐟, thanks to spending time for visit!*
