@@ -29,6 +29,7 @@ My main **Programming languages** is:
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
 - [DryFish ILib: Random utilties](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
+- [ZalithLauncher 3 (forked from ZalithLauncher2Plus)](https://github.com/dryfush09/ZalithLauncher3): my most active contribution fork, thanks @Star1xr for bringing it to life!
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
 - Discord Server - DryFish Valley: https://discord.gg/wr4FSEdPb (may expires after 30 days)
