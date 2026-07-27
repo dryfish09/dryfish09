@@ -9,7 +9,6 @@ My main **Programming languages** is:
 - Kotlin: easy to learn, but so magic 🪄
 - C#: a big guy that created by big guy.
 - C++: To do something need to be **dangerous** 💀
-- Assembly: Well, welcome to **hardware**, but you are *not welcome* ⚙️
 - CSS: Need for web front-end, but is CSS is C Sharp Sharp? (lol I know that's not) 😆
 ### My favourite thing:
 - Typo: yeah, typo is easy to write.
@@ -29,7 +28,7 @@ My main **Programming languages** is:
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
 - [DryFish ILib: Random utilties](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
-- [ZalithLauncher 3 (forked from ZalithLauncher2Plus)](https://github.com/dryfish09/ZalithLauncher3): my most active contribution fork, thanks @Star1xr for bringing it to life!
+- 
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
 - Discord Server - DryFish Valley: https://discord.gg/wr4FSEdPb (may expires after 30 days)
