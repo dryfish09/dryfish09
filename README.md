@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Dry Fish 🐟
 
 ### About me:
-I'm just a **dried fish** and I know how to use github 💻
+I'm just 13 y/o a **dried fish** and I know how to use github 💻
 
 I **always** find new thing to do, and... Well, I"m lazy and many **crazy** mind will never public (that in my brain).
 ### Tech Stack (Overflows):
@@ -33,6 +33,7 @@ My main **Programming languages** is:
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
 - Discord Server - DryFish Valley: https://discord.gg/wr4FSEdPb (may expires after 30 days)
+- 🚀 LaunchPad (nothing here): https://launchpad.net/~dryfish092
 
 ---
 *Made with sun ☀️ and cringe by DryFish 🐟, thanks to spending time for visit!*
