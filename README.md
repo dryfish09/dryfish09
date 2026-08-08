@@ -20,7 +20,7 @@ My main **Programming languages** is:
 - My dream is become the first fish that work in human environment 🐟
 - Create my own programming language: learning is hard, but create it and become an author of it is easier (no long time, soon)
 - Human enviroment I want to work on is Mojang, because I am a Minecraft player (don't ask why fish can play games)
-- Have many friends and many... Moneys. Yeh, of course, everyone wants to have a lot of money, including me.
+- Have many friends and many... Money. Yeh, of course, everyone wants to have a lot of money, including me.
 
 ### Now I working on...
 
