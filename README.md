@@ -24,7 +24,7 @@ My main **Programming languages** is:
 
 ### Now I working on...
 
-Now I currently working on **LilyPad Tean**! And I have some repositories you can visit:
+Now I currently working on **LilyPad Team**! And I have some personal repositories you can visit:
 - [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial docs for kotlin, not usually update.
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
