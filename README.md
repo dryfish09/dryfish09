@@ -18,7 +18,7 @@ My main **Programming languages** is:
 - Emojis: That's why `MemeDesign` exist. An UI Design made with emoji 🌈
 ### My dream:
 - My dream is become the first fish that work in human environment 🐟
-- Have own programming language: learning is hard, but create it and become an author of it is easier.
+- Have my own programming language: learning is hard, but create it and become an author of it is easier.
 - Human enviroment I want to work on is Mojang, because I am a Minecraft player (don't ask why fish can play games)
 
 ### Now I working on:
