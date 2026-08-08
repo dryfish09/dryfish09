@@ -18,18 +18,22 @@ My main **Programming languages** is:
 - Emojis: That's why `MemeDesign` exist. An UI Design made with emoji 🌈
 ### My dream:
 - My dream is become the first fish that work in human environment 🐟
-- Have my own programming language: learning is hard, but create it and become an author of it is easier.
+- Create my own programming language: learning is hard, but create it and become an author of it is easier (no long time, soon)
 - Human enviroment I want to work on is Mojang, because I am a Minecraft player (don't ask why fish can play games)
+- Have many friends and many... Moneys. Yeh, of course, everyone wants to have a lot of money, including me.
 
-### Now I working on:
+### Now I working on...
 
-**Nothing**! But I have some repositories you can visit:
+Now I currently working on **LilyPad Tean**! And I have some repositories you can visit:
 - [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial docs for kotlin, not usually update.
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
 - [DryFish ILib: Random utilties](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
 - [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): Deployed web: https://dryfish09.github.io/card-svg-gen
 - [ZalithLauncher 2 plus](https://github.com/star1xr/zalithlauncher2plus): A fork of Zalith launcher 2 with better performance and features. That's a project which I contributed to.
+
+> [!NOTE]
+> To find out what the hell I'm doing at the LilyPad Team, please visit [Team's Github homepage](https://github.com/lilypadteam)
 
 
 ## 📞 Contact me
