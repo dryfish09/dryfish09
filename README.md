@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Dry Fish 🐟
 
 ### About me:
-I'm just 13 y/o a **dried fish** and I know how to use github 💻
+I'm just a 13 y/o **dried fish** and I know how to use github 💻
 
 I **always** find new thing to do, and... Well, I"m lazy and many **crazy** mind will never public (that in my brain).
 ### Tech Stack (Overflows):
@@ -29,6 +29,8 @@ My main **Programming languages** is:
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
 - [DryFish ILib: Random utilties](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
 - [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): Deployed web: https://dryfish09.github.io/card-svg-gen
+- [ZalithLauncher 2 plus](https://github.com/star1xr/zalithlauncher2plus): A fork of Zalith launcher 2 with better performance and features. That's a project which I contributed to.
+
 
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
