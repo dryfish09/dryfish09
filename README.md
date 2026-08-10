@@ -3,7 +3,7 @@
 ### About me:
 I'm just a 13 y/o **dried fish** and I know how to use github 💻
 
-I **always** find new thing to do, and... Well, I"m lazy and many **crazy** mind will never public (that in my brain).
+I **always** find new thing to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that in my brain, lol, and that ideas is too cringe and crazy so I also don't want to public).
 ### Tech Stack (Overflows):
 My main **Programming languages** is:
 - Kotlin: easy to learn, but so magic 🪄
@@ -27,10 +27,10 @@ My main **Programming languages** is:
 Now I currently working on **LilyPad Team**! And I have some personal repositories you can visit:
 - [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial docs for kotlin, not usually update.
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
-- [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
+- [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code easier, shorter, for more information, please visit it.
 - [DryFish ILib: Random utilities](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
 - [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): Deployed web: https://dryfish09.github.io/card-svg-gen
-- [ZalithLauncher 2 plus](https://github.com/star1xr/zalithlauncher2plus): A fork of Zalith launcher 2 with better performance and features. That's a project which I contributed to.
+- [ZalithLauncher 2 plus](https://github.com/star1xr/zalithlauncher2plus): A fork of Zalith launcher 2 with better performance and features. That's a project that I contributed to.
 
 > [!NOTE]
 > To find out what the hell I'm doing at the LilyPad Team, please visit [Team's Github homepage](https://github.com/lilypadteam)
