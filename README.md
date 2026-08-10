@@ -3,7 +3,7 @@
 ### About me:
 I'm just a 13 y/o **dried fish** and I know how to use github 💻
 
-I **always** find new thing to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that in my brain, lol, and that ideas is too cringe and crazy so I also don't want to public).
+I **always** find new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that in my brain, lol, and those ideas are too cringe and crazy so I also don't want to public).
 ### Tech Stack (Overflows):
 My main **Programming languages** is:
 - Kotlin: easy to learn, but so magic 🪄
@@ -11,7 +11,7 @@ My main **Programming languages** is:
 - C++: To do something need to be **dangerous** 💀
 - CSS: Need for web front-end, but is CSS is C Sharp Sharp? (lol I know that's not) 😆
 ### My favourite thing:
-- Typo: yeah, typo is easy to write.
+- Typo: yeah, typo is easy to write (and hard to find and fix) 😡
 - Linux: why? I like command line.
 - Sleep: Although I not really sleep much, but it's a good reason for lazy 😴
 - Drawing: With a paper, a pen, then I created a **big world** with **crazy stuff** 📝
@@ -35,11 +35,16 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 > [!NOTE]
 > To find out what the hell I'm doing at the LilyPad Team, please visit [Team's Github homepage](https://github.com/lilypadteam)
 
+## Contributed to:
+- Zalith launcher 2: a Minecraft: Java Edition launcher for android. PR: [#1394](https://github.com/zalithlauncher/zalithlauncher2/pull/1394), [#1981](https://github.com/zalithlauncher/zalithlauncher2/pull/1381), [#1295](https://github.com/zalithlauncher/zalithlauncher2/pull/1295), [#1290](https://github.com/zalithlauncher/zalithlauncher2/pull/1290)
+- FCL: continue a minecraft java edition launcher for Android. PR: [#1711](https://github.com/FCL-Team/FoldCraftLauncher/pull/1711), [#1707](https://github.com/FCL-Team/FoldCraftLauncher/pull/1707)
+- Verity-JE: A Minecraft: Java edition mod that add a entity to game. PR: [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
+- Zalith launcher2 Plus: An awesome fork of Zalith launcher2: Too many prs
 
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
-- Discord Server - DryFish Valley:  https://discord.gg/XDBNy5tju (may expires after 30 days)
-- Discord profile - DryFish (dryfish09): feel free to be friend. https://discord.com/users/1458948748536316039
+- 🧑‍🤝‍🧑 Discord Server - DryFish Valley:  https://discord.gg/XDBNy5tju (may expires after 30 days)
+- 🫂 Discord profile - DryFish (dryfish09): feel free to be friend. https://discord.com/users/1458948748536316039
 - 🚀 LaunchPad (nothing here): https://launchpad.net/~dryfish09
 
 ---
