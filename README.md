@@ -28,7 +28,7 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 - [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial docs for kotlin, not usually update.
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
 - [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code code easier, shorter, for more information, please visit it.
-- [DryFish ILib: Random utilties](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
+- [DryFish ILib: Random utilities](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
 - [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): Deployed web: https://dryfish09.github.io/card-svg-gen
 - [ZalithLauncher 2 plus](https://github.com/star1xr/zalithlauncher2plus): A fork of Zalith launcher 2 with better performance and features. That's a project which I contributed to.
 
