@@ -4,6 +4,15 @@
 I'm just a 14 y/o **otaku dried fish** and I know how to use GitHub 💻
 
 I **always** find new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that in my brain, lol, and those ideas are too cringe and crazy so I also don't want to public).
+### Device Spec:
+This is my device spec.
+- Main device: Casper Android Smart TV 2K. Ram 3GB, Android 10.
+- Phone: (not usually use): Oppo A18, Ram 5GB, Android 10.
+
+> [!NOTE]
+> Because I'm coding on a TV, I don't know how to squash commit since I'm not using git-scm, only GitHub web. Due to the TV's weak configuration, the browser occasionally crashes, so I have to commit mid-way through writing code even if it's not finished.
+>
+> So don't doubt my contributions this year.
 ### Tech Stack (Overflows):
 My main **Programming languages** is:
 - Kotlin: easy to learn, but so magic 🪄
