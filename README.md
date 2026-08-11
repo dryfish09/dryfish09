@@ -51,3 +51,4 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 
 ---
 *Made with sun ☀️ and cringe by DryFish 🐟, thanks to spending time for visit!*
+*Avatar by Lotus, my friend in discord, thanks for the good avatar:)*
