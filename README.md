@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Dry Fish 🐟
 
 ### About me:
-I'm just a 14 y/o **dried fish** and I know how to use GitHub 💻
+I'm just a 14 y/o **wibu dried fish** and I know how to use GitHub 💻
 
 I **always** find new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that in my brain, lol, and those ideas are too cringe and crazy so I also don't want to public).
 ### Tech Stack (Overflows):
@@ -16,6 +16,7 @@ My main **Programming languages** is:
 - Sleep: Although I not really sleep much, but it's a good reason for lazy 😴
 - Drawing: With a paper, a pen, then I created a **big world** with **crazy stuff** 📝
 - Emojis: That's why `MemeDesign` exist. An UI Design made with emoji 🌈
+- Watching animes: not often, but I like that :)
 ### My dream:
 - My dream is become the first fish that work in human environment 🐟
 - Create my own programming language: learning is hard, but create it and become an author of it is easier (no long time, soon)
