@@ -53,7 +53,7 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 - Zalith launcher2 Plus: An awesome fork of Zalith launcher2: Too many PRs
 
 #### 3D contribution graph:
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
