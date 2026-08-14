@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Dry Fish 🐟
+## 👋 Hi there! I'm Dr. YFish 🐟
 
 ### About me:
 I'm just a 14 y/o **otaku dried fish** and I know how to use GitHub 💻
