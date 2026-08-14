@@ -54,6 +54,8 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 
 #### 3D contribution graph:
 ![](./profile-3d-contrib/profile-night-green.svg)
+### Github Stats card:
+![](./profile/stats.svg)
 
 ## 📞 Contact me
 - 📧 Email: realmg51@gmail.com
