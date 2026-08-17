@@ -11,7 +11,7 @@ This is my device spec.
 - Main device: Casper Android Smart TV 2K. Ram 3GB, Android 10.
 - Phone: (not usually use): Oppo A18, Ram 5GB, Android 10.
 
-> [!NOTE]
+> [!IMPORTANT]
 > Because I'm coding on a TV, I don't know how to squash commit since I'm not using git-scm, only GitHub web. Due to the TV's weak configuration, the browser occasionally crashes, so I have to commit mid-way through writing code even if it's not finished.
 >
 > So don't doubt my contributions this year.
