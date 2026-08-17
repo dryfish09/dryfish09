@@ -59,7 +59,7 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 ![](./profile/stats.svg)
 
 ## 📞 Contact me
-- 📧 Email: realmg51@gmail.com
+- 📧 Email: dryfish009@gmail.com
 - 🫂 Discord profile - DryFish (dryfish09): feel free to be friend. https://discord.com/users/1458948748536316039
 - 🚀 LaunchPad (nothing here): https://launchpad.net/~dryfish09
 
