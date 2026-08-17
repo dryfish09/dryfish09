@@ -21,10 +21,10 @@ My main **Programming languages** is:
 - C#: a big guy that created by big guy.
 - C++: To do something need to be **dangerous** 💀
 - CSS: Need for web front-end, but is CSS is C Sharp Sharp? (lol I know that's not) 😆
-### My favourite thing:
+### My Favourite Things:
 - Typo: yeah, typo is easy to write (and hard to find and fix) 😡
 - Linux: why? I like command line.
-- Sleep: Although I not really sleep much, but it's a good reason for lazy 😴
+- Sleep: Although I don't really sleep much, but it's a good reason for lazy 😴
 - Drawing: With a paper, a pen, then I created a **big world** with **crazy stuff** 📝
 - Emojis: That's why `MemeDesign` exist. An UI Design made with emoji 🌈
 - Watching anime: not often, but I like that :)
