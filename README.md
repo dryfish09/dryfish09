@@ -50,7 +50,7 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 > To find out what the hell I'm doing at the LilyPad Team, please visit [Team's Github homepage](https://github.com/lilypadteam)
 
 ## Contributed to:
-- Zalith launcher 2: a Minecraft: Java Edition launcher for android. PR: [#1394](https://github.com/zalithlauncher/zalithlauncher2/pull/1394), [#1981](https://github.com/zalithlauncher/zalithlauncher2/pull/1381), [#1295](https://github.com/zalithlauncher/zalithlauncher2/pull/1295), [#1290](https://github.com/zalithlauncher/zalithlauncher2/pull/1290)
+- Zalith launcher 2: a Minecraft: Java Edition launcher for android. PR: [#1394](https://github.com/zalithlauncher/zalithlauncher2/pull/1394), [#1381](https://github.com/zalithlauncher/zalithlauncher2/pull/1381), [#1295](https://github.com/zalithlauncher/zalithlauncher2/pull/1295), [#1290](https://github.com/zalithlauncher/zalithlauncher2/pull/1290)
 - FCL: continue a minecraft java edition launcher for Android. PR: [#1711](https://github.com/FCL-Team/FoldCraftLauncher/pull/1711), [#1707](https://github.com/FCL-Team/FoldCraftLauncher/pull/1707)
 - Verity-JE: A Minecraft: Java edition mod that add a entity to game. PR: [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
 - Zalith launcher2 Plus: An awesome fork of Zalith launcher2: Too many PRs
