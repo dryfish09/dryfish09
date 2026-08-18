@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dr. YFish&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  : 1162, Total PRs: 59, Total PRs Merged: 36, Merged PRs Percentage: 61.02, Total PRs Reviewed: 29, Total Issues: 11, Total Discussions Started: 5, Total Discussions Answered: 0, PRs Commented: 39, PRs Reviewed: 29, Issues Commented: 54, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  : 1168, Total PRs: 61, Total PRs Merged: 36, Merged PRs Percentage: 59.02, Total PRs Reviewed: 29, Total Issues: 11, Total Discussions Started: 5, Total Discussions Answered: 0, PRs Commented: 39, PRs Reviewed: 29, Issues Commented: 56, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 143.13430654931264;
+        stroke-dashoffset: 142.0212762515256;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >59</text>
+      >61</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >61.02 %</text>
+      >59.02 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -327,7 +327,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_commented"
-      >54</text></a>
+      >56</text></a>
     </g>
   </g><g transform="translate(0, 300)">
     <g class="stagger" style="animation-delay: 2250ms" transform="translate(25, 0)">
@@ -342,7 +342,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >23</text>
+      >17</text>
     </g>
   </g>
     </svg>
