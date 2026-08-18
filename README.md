@@ -55,10 +55,8 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 - Verity-JE: A Minecraft: Java edition mod that add a entity to game. PR: [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
 - Zalith launcher2 Plus: An awesome fork of Zalith launcher2: Too many PRs
 
-#### 3D contribution graph:
-![](./profile-3d-contrib/profile-night-green.svg)
 ### Github Stats card:
-![](./profile/stats.svg)
+[![](./profile/stats.svg)](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true)
 
 ### Profile Views Number:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dryfish09" alt="dryfish09"/> </p>
