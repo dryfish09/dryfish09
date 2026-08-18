@@ -56,7 +56,8 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 - Zalith launcher2 Plus: An awesome fork of Zalith launcher2: Too many PRs
 
 ### Github Stats card:
-[![](./profile/stats.svg)](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true)
+
+<p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true" alt="dryfish09"/> </p>
 
 ### Profile Views Number:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dryfish09" alt="dryfish09"/> </p>
