@@ -3,7 +3,7 @@
 ### About me:
 I'm just a 14 y/o **otaku dried fish** and I know how to use GitHub 💻
 
-Github join date: Feb 13, 2026
+GitHub join date: Feb 13, 2026
 
 I **always** find new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that are in my brain, lol, and those ideas are too cringe and crazy so I also don't want to public).
 ### Device Spec:
