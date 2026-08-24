@@ -66,6 +66,7 @@ Now I currently working on **LilyPad Team**! And I have some personal repositori
 - 📧 Email: dryfish009@gmail.com
 - 🫂 Discord profile - DryFish (dryfish09): feel free to be friend. https://discord.com/users/1458948748536316039
 - 🚀 LaunchPad (nothing here): https://launchpad.net/~dryfish09
+- Discord server: https://discord.gg/HUB5FhXY6
 
 ---
 *Made with sun ☀️ and cringe by DryFish 🐟, thanks to spending time for visit!*
