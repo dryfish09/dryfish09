@@ -95,8 +95,6 @@ I'm currently working on **LilyPad Team**! And I have some personal repositories
 
 *Made with sun ☀️ and cringe by DryFish 🐟, thanks for spending time visiting!*
 
-*Avatar by Lotus, my friend on Discord, thanks for the awesome avatar!* ❤️
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:238636,100:1a1b27&height=100&section=footer" width="100%"/>
 </div>
