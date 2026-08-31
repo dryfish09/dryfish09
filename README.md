@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:ffd93d,100:6bcb77&height=180&section=header&text=%F0%9F%90%9F%20dryfish09&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=A%20lazy%20developer&descSize=20&descAlignY=52" width="100%"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39CAF7&center=true&vCenter=true&random=true&width=435&lines=A+lazy+developer;A+Linux+lover;Desktop+app%2C+library+developer;A+C%2B%2B+newbie;Doing+stupid+stuff+everyday" alt="Typing SVG" /></a>
 </div>
 
 ## 👋 Hi there! I'm Dr. YFish 🐟
