@@ -5,8 +5,6 @@
 
 ## 👋 Hi there! I'm Dr. YFish 🐟
 
-![Lazy Developer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q5Y2ZzZ2V3NW9kZ2x5Z2hzcGRpM2NxYzRwZ2x5Z2hzcGRpM2NxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif)
-
 ### 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
