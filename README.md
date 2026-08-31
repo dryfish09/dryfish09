@@ -1,72 +1,101 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:ffd93d,100:6bcb77&height=180&section=header&text=%F0%9F%90%9F%20dryfish09&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=A%20lazy%20developer&descSize=20&descAlignY=52" width="100%"/>
+</div>
+
 ## 👋 Hi there! I'm Dr. YFish 🐟
 
-### About me:
+### 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🧑‍🎓 About me
 I'm just a 14 y/o **otaku dried fish** and I know how to use GitHub 💻
 
 GitHub join date: Feb 13, 2026
 
-I **always** find new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (that are in my brain, lol, and those ideas are too cringe and crazy so I also don't want to public).
-### Device Spec:
-This is my device spec.
-- Main device: Casper Android Smart TV 2K. Ram 3GB, Android 10.
-- Phone: (not usually use): Oppo A18, Ram 5GB, Android 10.
+I'm **always** finding new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (they're in my brain, lol, and those ideas are too cringe and crazy so I also don't want to make them public).
+
+### 📺 Device Specs
+These are my device specs:
+
+- **Main device**: Casper Android Smart TV 2K. RAM 3GB, Android 10.
+- **Phone** (not usually used): Oppo A18, RAM 5GB, Android 10.
 
 > [!IMPORTANT]
-> Because I'm coding on a TV, I don't know how to squash commit since I'm not using git-scm, only GitHub web. Due to the TV's weak configuration, the browser occasionally crashes, so I have to commit mid-way through writing code even if it's not finished.
+> Because I'm coding on a TV, I don't know how to squash commits since I'm not using git-scm, only GitHub web. Due to the TV's weak configuration, the browser occasionally crashes, so I have to commit mid-way through writing code even if it's not finished.
 >
-> So don't doubt my contributions this year.
-### Tech Stack (Overflows):
-My main **Programming languages** is:
-- Kotlin: easy to learn, but so magic 🪄
-- C#: a big guy that created by big guy.
-- C++: To do something need to be **dangerous** 💀
-- CSS: Need for web front-end, but is CSS is C Sharp Sharp? (lol I know that's not) 😆
-### My Favourite Things:
-- Typo: yeah, typo is easy to write (and hard to find and fix) 😡
-- Linux: why? I like command line.
-- Sleep: Although I don't really sleep much, but it's a good reason for lazy 😴
-- Drawing: With a paper, a pen, then I created a **big world** with **crazy stuff** 📝
-- Emojis: That's why `MemeDesign` exist. An UI Design made with emoji 🌈
-- Watching anime: not often, but I like that :)
-### My dream:
-- My dream is become the first fish that work in human environment 🐟
-- Create my own programming language: learning is hard, but create it and become an author of it is easier (no long time, soon)
-- Human environment I want to work on is Mojang, because I am a Minecraft player (don't ask why fish can play games)
-- Have many friends and many... Money. Yeh, of course, everyone wants to have a lot of money, including me.
+> So don't doubt my contributions this year :(
 
-### Now I working on...
+### 🛠️ Tech Stack (Overflows)
+My main **programming languages** are:
 
-Now I currently working on **LilyPad Team**! And I have some personal repositories you can visit:
-- [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial docs for kotlin, not usually update.
-- [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): This is not my own repository, but I contributed to.
-- [DryFish.ILib: Main library](https://github.com/dryfish09/ILib): My own **C# library**, it helps you write code easier, shorter, for more information, please visit it.
-- [DryFish ILib: Random utilities](https://github.com/dryfish09/ILib.Random): C# random library, part of DryFish's C# ecosystem.
-- [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): Deployed web: https://dryfish09.github.io/card-svg-gen
-- [ZalithLauncher 2 plus](https://github.com/star1xr/zalithlauncher2plus): A fork of Zalith launcher 2 with better performance and features. That's a project that I contributed to.
-- [ITLWB - Is that link was broken?](https://github.com/dryfish09/itlwb): A simple HTML tool that born to checks link.
-- [SimpleDB](https://github.com/dryfish09/SimpleDB): A simple, file-based personal database that has some useful file need to archive.
+- **Kotlin**: easy to learn, but so magic 🪄
+- **C#**: a big guy created by a big guy
+- **C++**: to do something that needs to be **dangerous** 💀
+- **CSS**: needed for web front-end, but is CSS C Sharp Sharp? (lol I know it's not) 😆
+
+### 🎯 My Favourite Things
+- **Typo**: yeah, typo is easy to write (and hard to find and fix) 😡
+- **Linux**: why? I like the command line
+- **Sleep**: Although I don't really sleep much, it's a good excuse for being lazy 😴
+- **Drawing**: With a paper and a pen, I create a **big world** with **crazy stuff** 📝
+- **Emojis**: That's why `MemeDesign` exists. A UI design made with emojis 🌈
+- **Watching anime**: not often, but I like it :)
+
+### 🌟 My Dreams
+- Become the first fish that works in a human environment 🐟
+- Create my own programming language: learning is hard, but creating one and becoming its author is easier (no long time, soon)
+- Work at Mojang, because I am a Minecraft player (don't ask why a fish can play games) ⚫
+- Have many friends and many... Money. Yeah, of course, everyone wants to have a lot of money, including me 💰
+
+### 📚 What I'm Working On
+I'm currently working on **LilyPad Team**! And I have some personal repositories you can visit:
+
+- [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial Kotlin docs, not usually updated
+- [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): not my own repository, but I contributed to it
+- [DryFish.ILib](https://github.com/dryfish09/ILib): My **C# library** that helps you write code easier and shorter
+- [ILib.Random](https://github.com/dryfish09/ILib.Random): C# random utilities library
+- [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): [Deployed here](https://dryfish09.github.io/card-svg-gen)
+- [ZalithLauncher 2 Plus](https://github.com/star1xr/zalithlauncher2plus): A fork with better performance
+- [ITLWB](https://github.com/dryfish09/itlwb): "Is That Link Was Broken?" - A simple HTML tool
+- [SimpleDB](https://github.com/dryfish09/SimpleDB): A simple, file-based personal database
 
 > [!NOTE]
-> To find out what the hell I'm doing at the LilyPad Team, please visit [Team's Github homepage](https://github.com/lilypadteam)
+> To find out what I'm doing at LilyPad Team, visit the [Team's GitHub homepage](https://github.com/lilypadteam)
 
-## Contributed to:
-- Zalith launcher 2: a Minecraft: Java Edition launcher for android. PR: [#1394](https://github.com/zalithlauncher/zalithlauncher2/pull/1394), [#1381](https://github.com/zalithlauncher/zalithlauncher2/pull/1381), [#1295](https://github.com/zalithlauncher/zalithlauncher2/pull/1295), [#1290](https://github.com/zalithlauncher/zalithlauncher2/pull/1290)
-- FCL: continue a minecraft java edition launcher for Android. PR: [#1711](https://github.com/FCL-Team/FoldCraftLauncher/pull/1711), [#1707](https://github.com/FCL-Team/FoldCraftLauncher/pull/1707)
-- Verity-JE: A Minecraft: Java edition mod that add a entity to game. PR: [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
-- Zalith launcher2 Plus: An awesome fork of Zalith launcher2: Too many PRs
+### 🤝 Contributed to
+- **Zalith Launcher 2**: PRs [#1394](https://github.com/zalithlauncher/zalithlauncher2/pull/1394), [#1381](https://github.com/zalithlauncher/zalithlauncher2/pull/1381), [#1295](https://github.com/zalithlauncher/zalithlauncher2/pull/1295), [#1290](https://github.com/zalithlauncher/zalithlauncher2/pull/1290)
+- **FCL (FoldCraftLauncher)**: PRs [#1711](https://github.com/FCL-Team/FoldCraftLauncher/pull/1711), [#1707](https://github.com/FCL-Team/FoldCraftLauncher/pull/1707)
+- **Verity-JE**: PR [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
+- **Zalith Launcher 2 Plus**: Too many PRs to count!
 
-### Github Stats card:
-
+### 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
 
-### Profile Views Number:
+### Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dryfish09" alt="dryfish09"/> </p>
 
-## 📞 Contact me
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dryfish09&theme=dark&hide_border=true&background=0D1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A" alt="GitHub Streak"/>
+</p>
+
+### 📋 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dryfish09&theme=github_dark" alt="Profile Details"/>
+
+## 📞 Contact Me
 - 📧 Email: dryfish009@gmail.com
 - 🚀 LaunchPad: https://launchpad.net/~dryfish09
 
 ---
-*Made with sun ☀️ and cringe by DryFish 🐟, thanks to spending time for visit!*
 
-*Avatar by Lotus, my friend in discord, thanks for the good avatar :)*
+*Made with sun ☀️ and cringe by DryFish 🐟, thanks for spending time visiting!*
+
+*Avatar by Lotus, my friend on Discord, thanks for the awesome avatar!* ❤️
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:238636,100:1a1b27&height=100&section=footer" width="100%"/>
+</div>
