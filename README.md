@@ -55,7 +55,6 @@ My main **programming languages** are:
 ### 📚 What I'm Working On
 I'm currently working on **LilyPad Team**! And I have some personal repositories you can visit:
 
-- [Kotlin Cookbook](https://github.com/dryfish09/KotlinCookBook): unofficial Kotlin docs, not usually updated
 - [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): not my own repository, but I contributed to it
 - [DryFish.ILib](https://github.com/dryfish09/ILib): My **C# library** that helps you write code easier and shorter
 - [ILib.Random](https://github.com/dryfish09/ILib.Random): C# random utilities library
