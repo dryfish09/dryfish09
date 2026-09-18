@@ -13,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🧑‍🎓 About me
-I'm just a 14 y/o **otaku dried fish** and I know how to use GitHub 💻
+I'm just a 13 y/o **dried fish** and I know how to use GitHub 💻
 
 GitHub join date: Feb 13, 2026
 
