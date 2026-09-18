@@ -72,6 +72,16 @@ I'm currently working on **LilyPad Team**! And I have some personal repositories
 - **Verity-JE**: PR [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
 - **Zalith Launcher 2 Plus**: Too many PRs to count!
 
+### 🗺️ My Roadmap:
+- [ ] Learn and C++ basic (I'm here)
+- [x] Have my own mobile phone
+- [ ] Have a PC/Laptop that runs a Linux distro (I choose Linux Mint!)
+- [ ] Do a 9th-to-10th grade entrance exam
+- [ ] Learn C++ advanced
+- [ ] do some small game with Unreal
+- [ ] write a kernel when I'm in university.
+- [ ] That's it.
+
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
 
