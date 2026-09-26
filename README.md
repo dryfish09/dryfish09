@@ -32,9 +32,6 @@ These are my device specs:
 
 ### 🛠️ Tech Stack (Overflows)
 My main **programming languages** are:
-
-- **Kotlin**: easy to learn, but so magic 🪄
-- **C#**: a big guy created by a big guy
 - **C++**: to do something that needs to be **dangerous** 💀 (but i'm learning it right Plus 
 - **CSS**: needed for web front-end, but is CSS C Sharp Sharp? (lol I know it's not) 😆
 
@@ -55,13 +52,7 @@ My main **programming languages** are:
 ### 📚 What I'm Working On
 I'm currently working on **LilyPad Team**! And I have some personal repositories you can visit:
 
-- [Zalithlauncher 2](https://github.com/Zalithlauncher/Zalithlauncher2): not my own repository, but I contributed to it
-- [DryFish.ILib](https://github.com/dryfish09/ILib): My **C# library** that helps you write code easier and shorter
-- [ILib.Random](https://github.com/dryfish09/ILib.Random): C# random utilities library
-- [SVG Profile Card Generator](https://github.com/dryfish09/card-svg-gen): [Deployed here](https://dryfish09.github.io/card-svg-gen)
-- [ZalithLauncher 2 Plus (Archived due unknown reason)](https://github.com/star1xr/zalithlauncher2plus): A fork with better performance
-- [ITLWB](https://github.com/dryfish09/itlwb): "Is That Link Was Broken?" - A simple HTML tool
-- [SimpleDB](https://github.com/dryfish09/SimpleDB): A simple, file-based personal database
+View my active repositories
 
 > [!NOTE]
 > To find out what I'm doing at LilyPad Team, visit the [Team's GitHub homepage](https://github.com/LilyPadTeam)
