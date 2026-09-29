@@ -74,8 +74,10 @@ View my active repositories
 - [ ] That's it.
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=dryfish09&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
-
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=dryfish09&theme=tokyonight&border_radius=5.5" 
+       alt="dryfish09's GitHub Stats" />
+</p>
 ### Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dryfish09" alt="dryfish09"/> </p>
 
