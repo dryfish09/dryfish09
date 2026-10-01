@@ -22,7 +22,7 @@ I'm **always** finding new things to do, and... Well, I'm lazy and many of my **
 ### 📺 Device Specs
 These are my device specs:
 
-- **Main device**: Casper Android Smart TV 2K. RAM 3GB, Android 10.
+- **Main device**: Casper Android Smart TV 2K. RAM 2GB, Android 14.
 - **Phone** (not usually used): Oppo A18, RAM 5GB, Android 10.
 
 > [!IMPORTANT]
