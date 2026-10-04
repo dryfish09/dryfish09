@@ -78,6 +78,7 @@ View my active repositories
   <img src="https://ghstats.dev/api/card?username=dryfish09&theme=tokyonight&border_radius=5.5" 
        alt="dryfish09's GitHub Stats" />
 </p>
+
 ### Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dryfish09" alt="dryfish09"/> </p>
 
