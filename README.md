@@ -23,7 +23,7 @@ I'm **always** finding new things to do, and... Well, I'm lazy and many of my **
 These are my device specs:
 
 - **Main device**: Casper Android Smart TV 2K. RAM 2GB, Android 14.
-- **Phone** (not usually used): Oppo A18, RAM 5GB, Android 10.
+- **Phone** (not usually used): Oppo A18, RAM 5GB, Android 15.
 
 > [!IMPORTANT]
 > Because I'm coding on a TV, I don't know how to squash commits since I'm not using git-scm, only GitHub web. Due to the TV's weak configuration, the browser occasionally crashes, so I have to commit mid-way through writing code even if it's not finished.
