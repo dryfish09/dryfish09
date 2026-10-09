@@ -3,9 +3,11 @@ I'm dryfish, a lower secondary student who likes **C++, Linux, NeoVim and Termux
 
 I'm learning C++ and want to create some useful thing like libraries, apps, game, etc.
 ## Something you need to know about me: 
-- I'm 13 year old.
+- I'm 13 years old.
 - I'm coding on TV and my phone
 - My phone and TV are weak
+- Although I'm "good" at English but actually **still bad**
+- I'm too lazy to fix my gammar.
 - I just learning C++ **right now**, so my code maybe very worse, or like trash, but it's not intentional.
 - You MUST KNOW that I can't DO IT when I say "won't fix" or something look like that.
 
