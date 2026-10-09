@@ -7,7 +7,7 @@ I'm learning C++ and want to create some useful thing like libraries, apps, game
 - I'm coding on TV and my phone
 - My phone and TV are weak
 - Although I'm "good" at English but actually **still bad**
-- I'm too lazy to fix my grammar, so don't ask me for fix.
+- I'm too lazy to fix my grammar and typo, so don't ask me for fix.
 - I just learning C++ **right now**, so my code maybe very worse, or like trash, but it's not intentional.
 - You MUST KNOW that I can't DO IT when I say "won't fix" or something like that.
 
