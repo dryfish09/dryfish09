@@ -1,4 +1,4 @@
-# Yo! It's me!
+# Yo! It's me 🐟
 I'm dryfish, a lower secondary student who likes **C++, Linux, NeoVim and Termux**
 
 I'm learning C++ and want to create some useful thing like libraries, apps, game, etc.
@@ -20,10 +20,15 @@ I'm learning C++ and want to create some useful thing like libraries, apps, game
 - [ ] Learn C++ advanced
 - [ ] make some game with **all I have**
 - [ ] learn C# and Stardew Valley modding
-### Archievements that I earned (I think)
+### 🥇 Archievements that I earned (I think)
 - Made first game with C++ and raylib
 - Use git
 - have some followers (in github)
+## Contact me:
+### Mail
+- dryfish009@gmail.com
+### Social:
+- Discord: Username: adon_09
 
 Thanks for spending time to read this shit!
 
