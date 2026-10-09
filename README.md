@@ -15,12 +15,12 @@ I'm learning C++ and want to create some useful thing like libraries, apps, game
 - basic C++
 - basic raylib and game design
 - basic git, linux commands
+- log reading, some debugging skill (not compiler error)
 ## 🗺️ Roadmap:
 - [ ] Learn C++ advanced
 - [ ] make some game with **all I have**
 - [ ] learn C# and Stardew Valley modding
-- [ ] 
-### Archievements that I earned (i think)
+### Archievements that I earned (I think)
 - Made first game with C++ and raylib
 - Use git
 - have some followers (in github)
