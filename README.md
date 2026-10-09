@@ -1,98 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:ffd93d,100:6bcb77&height=180&section=header&text=%F0%9F%90%9F%20dryfish09&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=A%20lazy%20developer&descSize=20&descAlignY=52" width="100%"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39CAF7&center=true&vCenter=true&random=true&width=435&lines=A+lazy+developer;A+Linux+lover;Desktop+app%2C+library+developer;A+C%2B%2B+newbie;Doing+stupid+stuff+everyday" alt="Typing SVG" /></a>
-</div>
+# Yo! It's me!
+I'm dryfish, a lower secondary student who likes **C++, Linux, NeoVim and Termux**
 
-## 👋 Hi there! I'm Dr. YFish 🐟
+I'm learning C++ and want to create some useful thing like libraries, apps, game, etc.
 
-### 💻 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🧑‍🎓 About me
-I'm just a 13 y/o **dried fish** and I know how to use GitHub 💻
-
-GitHub join date: Feb 13, 2026
-
-I'm **always** finding new things to do, and... Well, I'm lazy and many of my **crazy ideas** will never be made public (they're in my brain, lol, and those ideas are too cringe and crazy so I also don't want to make them public).
-
-### 📺 Device Specs
-These are my device specs:
-
-- **Main device**: Casper Android Smart TV 2K. RAM 2GB, Android 14.
-- **Phone** (not usually used): Oppo A18, RAM 5GB, Android 15.
-
-### 🛠️ Tech Stack (Overflows)
-My main **programming languages** are:
-- **C++**: to do something that needs to be **dangerous** 💀 (but i'm learning it right Plus 
-- **CSS**: needed for web front-end, but is CSS C Sharp Sharp? (lol I know it's not) 😆
-
-### 🎯 My Favourite Things
-- **Typo**: yeah, typo is easy to write (and hard to find and fix) 😡
-- **Linux**: why? I like the command line
-- **Sleep**: Although I don't really sleep much, it's a good excuse for being lazy 😴
-- **Drawing**: With a paper and a pen, I create a **big world** with **crazy stuff** 📝
-- **Emojis**: That's why `MemeDesign` exists. A UI design made with emojis 🌈
-- **Watching anime**: not often, but I like it :)
-
-### 🌟 My Dreams
-- Become the first fish that works in a human environment 🐟
-- Create my own programming language: learning is hard, but creating one and becoming its author is easier (no long time, soon)
-- Work at Mojang, because I am a Minecraft player (don't ask why a fish can play games) ⚫
-- Have many friends and many... Money. Yeah, of course, everyone wants to have a lot of money, including me 💰
-
-### 📚 What I'm Working On
-I'm currently working on **LilyPad Team**! And I have some personal repositories you can visit:
-
-View my active repositories
-
-> [!NOTE]
-> To find out what I'm doing at LilyPad Team, visit the [Team's GitHub homepage](https://github.com/LilyPadTeam)
-
-### 🤝 Contributed to
-- **Zalith Launcher 2**: PRs [#1394](https://github.com/zalithlauncher/zalithlauncher2/pull/1394), [#1381](https://github.com/zalithlauncher/zalithlauncher2/pull/1381), [#1295](https://github.com/zalithlauncher/zalithlauncher2/pull/1295), [#1290](https://github.com/zalithlauncher/zalithlauncher2/pull/1290)
-- **FCL (FoldCraftLauncher)**: PRs [#1711](https://github.com/FCL-Team/FoldCraftLauncher/pull/1711), [#1707](https://github.com/FCL-Team/FoldCraftLauncher/pull/1707)
-- **Verity-JE**: PR [#2](https://github.com/Klisuaiji/verity-JE/pull/2)
-- **Zalith Launcher 2 Plus**: Too many PRs to count!
-
-### 🗺️ My Roadmap:
-- [ ] Learn and C++ basic (I'm here)
-- [x] Have my own mobile phone
-- [ ] Have a PC/Laptop that runs a Linux distro (I choose Linux Mint!)
-- [ ] Do a 9th-to-10th grade entrance exam
+## My knowledges:
+- basic C++
+- basic rraylib and game design
+- basic git, linux commands
+## Roadmap:
 - [ ] Learn C++ advanced
-- [ ] do some small game with Unreal
-- [ ] write a kernel when I'm in university.
-- [ ] That's it.
+- [ ] make some game with **all I have**
+- [ ] learn C# and Stardew Valley modding
+### Archievements that I earned (i think)
+- Made first game with C++ and raylib
+- Use git
+- have some followers (in github)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=dryfish09&theme=tokyonight&border_radius=5.5" 
-       alt="dryfish09's GitHub Stats" />
-</p>
+Thanks for spending time to read this shit
 
-### Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dryfish09" alt="dryfish09"/> </p>
+*made with food, water, sun and code by dryfish09*
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dryfish09&theme=dark&hide_border=true&background=0D1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A" alt="GitHub Streak"/>
-</p>
-
-### 📋 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dryfish09&theme=github_dark" alt="Profile Details"/>
-
-## 📞 Contact Me
-- 📧 Email: dryfish009@gmail.com
-- 🚀 LaunchPad: https://launchpad.net/~dryfish09
-
----
-
-*Made with sun ☀️ and cringe by DryFish 🐟, thanks for spending time visiting!*
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:238636,100:1a1b27&height=100&section=footer" width="100%"/>
-</div>
