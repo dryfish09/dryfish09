@@ -24,11 +24,13 @@ I'm learning C++ and want to create some useful thing like libraries, apps, game
 - Made first game with C++ and raylib
 - Use git
 - have some followers (in github)
-## Contact me:
-### Mail
+## 📫 Contact me:
+### 📧 email
 - dryfish009@gmail.com
-### Social:
-- Discord: Username: adon_09
+
+### 🗃️ Social:
+- Discord: adon_09
+- TikTok: @dryfish009
 
 Thanks for spending time to read this shit!
 
