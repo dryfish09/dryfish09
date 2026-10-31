@@ -51,9 +51,9 @@ I'm learning C++ and want to create some useful things like libraries, apps, gam
 ---
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dryfish09&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=dryfish09&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dryfish09&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=dryfish09&layout=compact&theme=tokyonight)
 
 ---
 
