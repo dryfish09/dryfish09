@@ -1,38 +1,75 @@
 # Yo! It's me 🐟
+
 I'm dryfish, a lower secondary student who likes **C++, Linux, NeoVim and Termux**
 
-I'm learning C++ and want to create some useful thing like libraries, apps, game, etc.
-## Something you need to know about me: 
+I'm learning C++ and want to create some useful things like libraries, apps, games, etc.
+
+---
+
+## 🙋 Something you need to know about me:
 - I'm 13 years old.
-- I'm coding on TV and my phone
-- My phone and TV are weak
-- Although I'm "good" at English but actually **still bad**
-- I'm too lazy to fix my grammar and typo, so don't ask me for fix.
-- I just learning C++ **right now**, so my code maybe very worse, or like trash, but it's not intentional.
-- You MUST KNOW that I can't DO IT when I say "won't fix" or something like that.
+- I'm coding on TV and my phone.
+- My phone and TV are weak.
+- Although I'm "good" at English, I'm actually **still bad**.
+- I'm too lazy to fix my grammar and typos, so don't ask me to fix them.
+- I'm just learning C++ **right now**, so my code may be very bad, or like trash, but it's not intentional.
+- You **MUST KNOW** that I can't DO IT when I say "won't fix" or something like that.
+
+---
 
 ## 🧠 My knowledge:
 - basic C++
 - basic raylib and game design
-- basic git, linux commands
-- log reading, some debugging skill (not compiler error)
+- basic Git, Linux commands
+- log reading, some debugging skills (not compiler errors)
+
+---
+
+## 🛠️ Tools I use:
+- **Editor:** NeoVim
+- **Terminal:** Termux (on phone), Linux terminal (on TV)
+- **Compiler:** g++
+- **Version control:** Git + GitHub
+- **Graphics:** raylib
+
+---
+
 ## 🗺️ Roadmap:
-- [ ] Learn C++ advanced
-- [ ] make some game with **all I have**
-- [ ] learn C# and Stardew Valley modding
-### 🥇 Archievements that I earned (I think)
+- [ ] Learn advanced C++
+- [ ] Make some games with **all I have**
+- [ ] Learn C# and Stardew Valley modding
+- [ ] Write my first library
+- [ ] Contribute to an open-source project
+
+---
+
+### 🥇 Achievements that I earned (I think)
 - Made first game with C++ and raylib
-- Use git
-- have some followers (in github)
+- Use Git
+- Have some followers (on GitHub)
+
+---
+
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dryfish09&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dryfish09&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Contact me:
-### 📧 email
+
+### 📧 Email
 - dryfish009@gmail.com
 
 ### 🗃️ Social:
 - Discord: adon_09
 - TikTok: @dryfish009
 
+---
+
 Thanks for spending time to read this shit!
 
-*made with food, water, sun and code by dryfish09 🐟*
+⭐ Star my repos if you like them!
 
+*made with food, water, sun and code by dryfish09 🐟*
