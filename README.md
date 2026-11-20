@@ -6,7 +6,7 @@ GitHub username: dryfish09
 
 C++ skill status: beginner (`beginner++ && advanced--`)
 
-Thing that I love: **Coding C++, review code, playi Roblox games**
+Thing that I love: **Coding C++, review code, playing Roblox games**
 ### Roadmap:
 - [ ] continue learning C++
 - [ ] learn C#
